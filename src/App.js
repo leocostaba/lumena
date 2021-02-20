@@ -9,7 +9,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={lumenaFace} className="App-logo" alt="logo" />
-        <h1>Eu sou um robô praticando o baianês que aprendi com a Lumena Aleluia</h1>
+        <h1>Eu sou um robô praticando frases que aprendi com a Lumena Aleluia</h1>
       </header>
       <Phrase />
     </div>
