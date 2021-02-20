@@ -2,13 +2,13 @@
 
 Um robô praticando o baianês que aprendi com as frases da Lumena Aleluia.
 
-O objetivo com este projeto foi aprender um pouco mais sobre o Web Speech API\
+O objetivo com este projeto foi aprender um pouco mais sobre o Web Speech API
 
 A Web Speech API oferece duas áreas distintas de funcionalidade - reconhecimento de fala e síntese de fala. Aqui estamos trabalhando com a segunda área.
 
 
 ## Agradecimentos
-[@willianjusten](https://github.com/willianjusten), quase um ex-bbb rsrs (fez um vídeo bacana sobre Web Speech)
+[@willianjusten](https://github.com/willianjusten), quase um ex-bbb rsrs (fez um vídeo bacana sobre Web Speech)\
 [Lumena Aleluia](https://www.instagram.com/lumena.aleluia), espero que você autorize grandão.
 
 ## Available Scripts
