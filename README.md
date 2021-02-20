@@ -1,12 +1,12 @@
 # Lumena Frases
 
-[LIVE DEMO / DEMONSTRAÇÃO](https://leocosta.dev/lumena-robot/)
+[LIVE DEMO / DEMONSTRAÇÃO](https://leocosta.dev/lumena)
 
-Um robô praticando o baianês que aprendi com as frases da Lumena Aleluia.
+Um robô praticando frases que aprendeu com as frases da Lumena Aleluia.
 
-O objetivo com este projeto foi aprender um pouco mais sobre o Web Speech API
+O objetivo com este projeto foi aprender/testar o Web Speech API
 
-A Web Speech API oferece duas áreas distintas de funcionalidade - reconhecimento de fala e síntese de fala. Aqui estamos trabalhando com a segunda área.
+A [Web Speech API](https://developer.mozilla.org/en-US/docs/Web/API/Web_Speech_API/Using_the_Web_Speech_API) oferece duas áreas distintas de funcionalidade - reconhecimento de fala e síntese de fala. Aqui estamos trabalhando com a segunda área.
 
 
 ## Agradecimentos
