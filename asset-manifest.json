@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/lumena-robot/static/css/main.b61c849e.chunk.css",
-    "main.js": "/lumena-robot/static/js/main.54c8045f.chunk.js",
-    "main.js.map": "/lumena-robot/static/js/main.54c8045f.chunk.js.map",
+    "main.js": "/lumena-robot/static/js/main.6a326884.chunk.js",
+    "main.js.map": "/lumena-robot/static/js/main.6a326884.chunk.js.map",
     "runtime-main.js": "/lumena-robot/static/js/runtime-main.a7dee1ab.js",
     "runtime-main.js.map": "/lumena-robot/static/js/runtime-main.a7dee1ab.js.map",
     "static/js/2.5620f223.chunk.js": "/lumena-robot/static/js/2.5620f223.chunk.js",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.a7dee1ab.js",
     "static/js/2.5620f223.chunk.js",
     "static/css/main.b61c849e.chunk.css",
-    "static/js/main.54c8045f.chunk.js"
+    "static/js/main.6a326884.chunk.js"
   ]
 }
