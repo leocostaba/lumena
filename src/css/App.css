@@ -1,0 +1,41 @@
+html {
+  background-color: #FFC13D;
+  text-align: center;
+  font-family: Helvetica, sans-serif;
+  color: #2D1632;
+}
+
+.App {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.App-header h1{
+  font-size: x-large;
+  margin: 20px 30px;
+}
+
+.App-header img{
+  max-width: 100%;
+}
+
+.Phrase-text {
+  background-color: white;
+  padding: 30px 15px;
+  border-radius: 20px;
+  margin: 20px 30px;
+  font-style: italic;
+}
+
+.Phrase-icons {
+  font-size: xx-large;
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  right: 0;
+}
+
+.Phrase-icons svg {
+  padding: 10px;
+  cursor: pointer;
+}
