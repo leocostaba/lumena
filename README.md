@@ -8,8 +8,8 @@ A Web Speech API oferece duas áreas distintas de funcionalidade - reconheciment
 
 
 ## Agradecimentos
-@willianjusten, quase um ex-bbb rsrs (fez um vídeo bacana sobre Web Speech)
-Lumena, espero que você autorize grandão.
+[@willianjusten](https://github.com/willianjusten), quase um ex-bbb rsrs (fez um vídeo bacana sobre Web Speech)
+[Lumena Aleluia](https://www.instagram.com/lumena.aleluia), espero que você autorize grandão.
 
 ## Available Scripts
 
