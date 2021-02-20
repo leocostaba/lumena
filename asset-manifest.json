@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/lumena-robot/static/css/main.b61c849e.chunk.css",
+    "main.js": "/lumena-robot/static/js/main.54c8045f.chunk.js",
+    "main.js.map": "/lumena-robot/static/js/main.54c8045f.chunk.js.map",
+    "runtime-main.js": "/lumena-robot/static/js/runtime-main.a7dee1ab.js",
+    "runtime-main.js.map": "/lumena-robot/static/js/runtime-main.a7dee1ab.js.map",
+    "static/js/2.5620f223.chunk.js": "/lumena-robot/static/js/2.5620f223.chunk.js",
+    "static/js/2.5620f223.chunk.js.map": "/lumena-robot/static/js/2.5620f223.chunk.js.map",
+    "static/js/3.822a892c.chunk.js": "/lumena-robot/static/js/3.822a892c.chunk.js",
+    "static/js/3.822a892c.chunk.js.map": "/lumena-robot/static/js/3.822a892c.chunk.js.map",
+    "index.html": "/lumena-robot/index.html",
+    "static/css/main.b61c849e.chunk.css.map": "/lumena-robot/static/css/main.b61c849e.chunk.css.map",
+    "static/js/2.5620f223.chunk.js.LICENSE.txt": "/lumena-robot/static/js/2.5620f223.chunk.js.LICENSE.txt",
+    "static/media/lumena.32a78022.jpg": "/lumena-robot/static/media/lumena.32a78022.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a7dee1ab.js",
+    "static/js/2.5620f223.chunk.js",
+    "static/css/main.b61c849e.chunk.css",
+    "static/js/main.54c8045f.chunk.js"
+  ]
+}
